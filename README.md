@@ -18,7 +18,7 @@ You will find a total of 6 files wich include 3 main scripts :
 
 * **brute** : One of the main scripts that crack passwords using brute force
 * **dicAttack** : One of the main scripts that crack passwords using dictionary attack
-* **dico_mini_fr** : Passwords dictionary used for experiences
+* **dico_mini_fr** : Passwords dictionary used for experiments
 * **hashtools** : One of the main scripts that manipulate hash to make new user + pwd combination and crack passwords using dictionary attack
 * **passwords** : Password + user list with time spent to reveal the corresponding password
 * **shadow** : Example of a shadow file like the one you can find on Linux distributions that stores users and corresponding password hash.
