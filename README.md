@@ -1,4 +1,4 @@
-## PythonBruteForceMD5
+# PythonBruteForceMD5
 
 This repository is a simple set of some files that allow you to explore password cracking with **Python 2.7** using **brute force** and **dictionary attack**. The point of such scripts is to show the ease in cracking passwords if we use a password dictionary.
 
